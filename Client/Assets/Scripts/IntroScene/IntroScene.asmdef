@@ -1,0 +1,16 @@
+{
+    "name": "IntroScene",
+    "rootNamespace": "",
+    "references": [
+        "GUID:50ed8bdd015ca124496378c8024d5069"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
